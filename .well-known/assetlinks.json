@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sebnemsilapolat_design.twa",
+        "sha256_cert_fingerprints": ["46:C0:E7:59:C1:A7:C0:BF:EE:99:F2:7D:7C:DB:10:4F:17:3E:1C:A4:94:A2:61:03:59:B0:46:61:F3:9F:14:BF"]
+      }
+    }]
